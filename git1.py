@@ -3,6 +3,6 @@ b = 29
 print(a*b)
 print(a-b)
 print(41)
-print("Hello GitHub")
+print("Hello from conflict branch")
 print("Hello puru")
 print("This is my feature branch")
